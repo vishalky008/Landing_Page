@@ -1,2 +1,2 @@
 # Landing_Page
-the page a visitor will land on when they're looking to book your services
+On this page a visitor will land on and they're looking to book our services.
